@@ -1,0 +1,24 @@
+.transaction_history {
+  font-size: 24px;
+  color: #4dccdd;
+  border-collapse: collapse;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 900px;
+  text-align: center;
+}
+.table_title{
+    background-color: #e2e0e0;
+    color: #3daadd;
+    padding: 10px;
+}
+
+
+.table_row {
+  background-color: #ffffff;
+}
+
+.table_box {
+  border: solid #b16d6d 1px;
+  padding: 10px;
+}
